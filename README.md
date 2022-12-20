@@ -6,10 +6,15 @@
 ### 시리즈 내용은 다음과 같습니다.
 ### Part 1: Python을 이용한 텍스트 파일 처리 기초
 1.tutorial_00: Python 환경 및 기초(미완)
+<br>
 1.tutorial_01: Python 텍스트 파일 읽고 쓰기
+<br>
 1.tutorial_02: 정규식(regex)을 이용한 텍스트 파일 처리
+<br>
 1.tutorial_03: 웹 페이지 스크래핑(scraping) 기초
+<br>
 1.tutorial_04: AntConc 프로그램을 이용한 텍스트 검색 및 정보 추출 (미완)
+<br>
 1.tutorial_05: 미정
 
 ### Part2: Python을 이용한 텍스트 파일 처리(task 중심)
