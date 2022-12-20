@@ -5,7 +5,7 @@
 
 ### 시리즈 내용은 다음과 같습니다.
 ### Part 1: Python을 이용한 텍스트 파일 처리 기초
-1.tutorial_00: Python 환경 및 기초(미완)
+- tutorial_00: Python 환경 및 기초(미완)
 <br>
 - tutorial_01: Python 텍스트 파일 읽고 쓰기
 <br>
@@ -27,4 +27,4 @@
 - tutorial_09: 사전 기반 텍스트 감정 분석(sentiment, emotion)
 <br>
 - tutorial_10: 미정
-
+<br>
