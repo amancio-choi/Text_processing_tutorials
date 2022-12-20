@@ -4,7 +4,7 @@
 ### html 파일로도 변환하여 호스팅 예정입니다.
 
 ### 시리즈 내용은 다음과 같습니다.
-### Part 1: Python을 이용한 텍스트 파일 처리 기초
+### Part 1: Python을 이용한 텍스트 파일 처리 기초<br>
 - tutorial_00: Python 환경 및 기초(미완)
 <br>
 - tutorial_01: Python 텍스트 파일 읽고 쓰기
@@ -17,7 +17,7 @@
 <br>
 - tutorial_05: 미정
 
-### Part2: Python을 이용한 텍스트 파일 처리(task 중심)
+### Part2: Python을 이용한 텍스트 파일 처리(task 중심)<br>
 - tutorial_06: 텍스트에서 단어 목록 추출하여 내보내기
 - <br>
 - tutorial_07: 텍스트에서 네트워크 정보 추출하여 gephi 포맷으로 내보내기(1)
