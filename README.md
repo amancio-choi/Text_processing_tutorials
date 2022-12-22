@@ -1,10 +1,10 @@
-# python_R_tutorial_text_processing
+### Text processing tutorial
 
-### python과 R을 이용한 텍스트 처리의 기초 시리즈입니다. 주로 사용하는 텍스트는 문학 작품입니다.
-### html 파일로도 변환하여 호스팅 예정입니다.
+#### python과 R을 이용한 텍스트 처리의 기초 시리즈입니다. 주로 사용하는 텍스트는 문학 작품입니다.
+#### html 파일로도 변환하여 호스팅 예정입니다.
 
-### 시리즈 내용은 다음과 같습니다.
-### Part 1: Python을 이용한 텍스트 파일 처리 기초<br>
+##### Python 파트의 시리즈 내용은 다음과 같습니다.
+##### Part 1: Python을 이용한 텍스트 파일 처리 기초<br>
 - tutorial_00: Python 환경 및 기초(미완)
 
 - tutorial_01: Python 텍스트 파일 읽고 쓰기
@@ -17,7 +17,7 @@
 
 - tutorial_05: 미정
 
-### Part2: Python을 이용한 텍스트 파일 처리(task 중심)<br>
+##### Part2: Python을 이용한 텍스트 파일 처리(task 중심)<br>
 - tutorial_06: 텍스트에서 단어 목록 추출하여 내보내기
 
 - tutorial_07: 텍스트에서 네트워크 정보 추출하여 gephi 포맷으로 내보내기(1)
@@ -28,3 +28,4 @@
 
 - tutorial_10: 미정
 
+##### R 파트의 시리즈 내용은 Python 파트와 동일하게 구성됩니다.
