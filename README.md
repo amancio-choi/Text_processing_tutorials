@@ -7,11 +7,11 @@
 ##### Part 1: Python을 이용한 텍스트 파일 처리 기초<br>
 - python_tutorial_00: Python 환경 및 기초(미완)
 
-- python_tutorial_01: Python 텍스트 파일 읽고 쓰기
+- python_tutorial_01: Python 텍스트 파일 읽고 쓰기<br>
 [튜토리얼] <https://amancio-choi.github.io/Text_processing_tutorials/Python/python_tutorial_01.html>
 [연습 노트] python_tutorial_01.ipynb
 
-- tutorial_02: 정규식(regex)을 이용한 텍스트 파일 처리
+- tutorial_02: 정규식(regex)을 이용한 텍스트 파일 처리<br>
 [튜토리얼] <https://amancio-choi.github.io/Text_processing_tutorials/Python/python_tutorial_02.html>
 [연습 노트] python_tutorial_02.ipynb
 
