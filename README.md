@@ -8,14 +8,16 @@
 - python_tutorial_00: Python 환경 및 기초(미완)
 
 - python_tutorial_01: Python 텍스트 파일 읽고 쓰기<br>
-[튜토리얼] <https://amancio-choi.github.io/Text_processing_tutorials/Python/python_tutorial_01.html>
+[튜토리얼] <https://amancio-choi.github.io/Text_processing_tutorials/Python/python_tutorial_01.html><br>
 [연습 노트] python_tutorial_01.ipynb
 
 - tutorial_02: 정규식(regex)을 이용한 텍스트 파일 처리<br>
-[튜토리얼] <https://amancio-choi.github.io/Text_processing_tutorials/Python/python_tutorial_02.html>
+[튜토리얼] <https://amancio-choi.github.io/Text_processing_tutorials/Python/python_tutorial_02.html><br>
 [연습 노트] python_tutorial_02.ipynb
 
 - tutorial_03: 웹 페이지 스크래핑(scraping) 기초
+[튜토리얼] <https://amancio-choi.github.io/Text_processing_tutorials/Python/python_tutorial_03.html><br>
+[연습 노트] python_tutorial_03.ipynb
 
 - tutorial_04: AntConc 프로그램을 이용한 텍스트 검색 및 정보 추출 (미완)
 
