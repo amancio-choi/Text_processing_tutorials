@@ -5,11 +5,15 @@
 
 #### 1. Python 파트의 시리즈 내용은 다음과 같습니다.
 ##### Part 1: Python을 이용한 텍스트 파일 처리 기초<br>
-- tutorial_00: Python 환경 및 기초(미완)
+- python_tutorial_00: Python 환경 및 기초(미완)
 
-- tutorial_01: Python 텍스트 파일 읽고 쓰기
+- python_tutorial_01: Python 텍스트 파일 읽고 쓰기
+[튜토리얼] <https://amancio-choi.github.io/Text_processing_tutorials/Python/python_tutorial_01.html>
+[연습 노트] python_tutorial_01.ipynb
 
 - tutorial_02: 정규식(regex)을 이용한 텍스트 파일 처리
+[튜토리얼] <https://amancio-choi.github.io/Text_processing_tutorials/Python/python_tutorial_02.html>
+[연습 노트] python_tutorial_02.ipynb
 
 - tutorial_03: 웹 페이지 스크래핑(scraping) 기초
 
