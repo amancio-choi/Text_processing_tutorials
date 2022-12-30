@@ -15,7 +15,7 @@
 [튜토리얼] <https://amancio-choi.github.io/Text_processing_tutorials/Python/python_tutorial_02.html><br>
 [연습 노트] python_tutorial_02.ipynb
 
-- tutorial_03: 웹 페이지 스크래핑(scraping) 기초
+- tutorial_03: 웹 페이지 스크래핑(scraping) 기초<br>
 [튜토리얼] <https://amancio-choi.github.io/Text_processing_tutorials/Python/python_tutorial_03.html><br>
 [연습 노트] python_tutorial_03.ipynb
 
