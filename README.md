@@ -24,17 +24,17 @@
 - tutorial_05: AntConc 프로그램을 이용한 텍스트 검색 및 정보 추출 (미완)
 
 ##### Part 2: Python을 이용한 텍스트 파일 처리(task 중심)<br>
-- tutorial_06: 텍스트에서 단어 목록 추출하여 내보내기
+- tutorial_06: 텍스트에서 단어 목록 추출하여 엑셀 파일에 쓰기, 키워드 검색하기
 
 - tutorial_07: 텍스트에서 네트워크 정보 추출하여 gephi 포맷으로 내보내기(1)
 
 - tutorial_08: 텍스트에서 네트워크 정보 추출하여 gephi 포맷으로 내보내기(2)
 
-- tutorial_09: 사전 기반 텍스트 감정 분석(sentiment, emotion)
+- tutorial_09: 사전 기반 텍스트 감정(sentiment/emotion) 분석하기
 
-- tutorial_10: 미정
+- tutorial_10: 텍스트 품사 태깅하기
 
 
-#### 2. R 파트의 시리즈 내용은 Python 파트와 동일하게 구성됩니다.
+#### 2. R 파트의 시리즈 내용은 Python 파트와 유사하게 구성됩니다.
 ##### Part 1: R을 이용한 텍스트 파일 처리 기초
 ##### Part 2: R을 이용한 텍스트 파일 처리(task 중심)
