@@ -1,11 +1,12 @@
 ## Text processing tutorial
 
 ### python과 R을 이용한 텍스트 처리의 기초 시리즈입니다. 주로 사용할 텍스트는 문학 작품(Gutenberg project)입니다.
-### (노트북 파일들은 완료 후 모두 html 파일로 변환하여 호스팅 예정입니다.)
+### 튜토리얼과 연습용 코드 노트북을 함께 제공합니다.
 
-#### 1. Python 파트의 시리즈 내용은 다음과 같습니다.
+#### 1. Python 파트의 시리즈 내용
 ##### Part 1: Python을 이용한 텍스트 파일 처리 기초<br>
 - python_tutorial_00: Python 환경 및 기초(미완)
+[튜토리얼] <https://amancio-choi.github.io/Text_processing_tutorials/Python/python_tutorial_00.html><br>
 
 - python_tutorial_01: Python 텍스트 파일 읽고 쓰기<br>
 [튜토리얼] <https://amancio-choi.github.io/Text_processing_tutorials/Python/python_tutorial_01.html><br>
