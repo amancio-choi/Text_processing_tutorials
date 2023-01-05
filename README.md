@@ -20,6 +20,8 @@
 [연습 노트] python_tutorial_03.ipynb
 
 - tutorial_04: **pandas**로 dataframe 다루기 (작업 중)
+[튜토리얼] <https://amancio-choi.github.io/Text_processing_tutorials/Python/python_tutorial_04.html><br>
+[연습 노트] python_tutorial_02.ipynb
 
 - tutorial_05: AntConc 프로그램을 이용한 텍스트 검색 및 정보 추출 (미완)
 
