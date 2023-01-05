@@ -19,9 +19,9 @@
 [튜토리얼] <https://amancio-choi.github.io/Text_processing_tutorials/Python/python_tutorial_03.html><br>
 [연습 노트] python_tutorial_03.ipynb
 
-- tutorial_04: AntConc 프로그램을 이용한 텍스트 검색 및 정보 추출 (미완)
+- tutorial_04: **pandas**로 dataframe 다루기 (작업 중)
 
-- tutorial_05: 미정
+- tutorial_05: AntConc 프로그램을 이용한 텍스트 검색 및 정보 추출 (미완)
 
 ##### Part 2: Python을 이용한 텍스트 파일 처리(task 중심)<br>
 - tutorial_06: 텍스트에서 단어 목록 추출하여 내보내기
