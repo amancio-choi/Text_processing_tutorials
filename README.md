@@ -5,7 +5,7 @@
 
 #### 1. Python 파트의 시리즈 내용
 ##### Part 1: Python을 이용한 텍스트 파일 처리 기초<br>
-- python_tutorial_00: Python 환경 및 기초(미완)
+- python_tutorial_00: Python 환경 및 기초(미완)<
 [튜토리얼] <https://amancio-choi.github.io/Text_processing_tutorials/Python/python_tutorial_00.html><br>
 
 - python_tutorial_01: Python 텍스트 파일 읽고 쓰기<br>
