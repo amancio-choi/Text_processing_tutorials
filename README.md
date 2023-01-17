@@ -22,14 +22,18 @@
 
 - tutorial_04: **pandas**로 dataframe 다루기<br>
 [튜토리얼] <https://amancio-choi.github.io/Text_processing_tutorials/Python/python_tutorial_04.html><br>
-[연습 노트] python_tutorial_02.ipynb
+[연습 노트] python_tutorial_04.ipynb
 
 - tutorial_05: AntConc 프로그램을 이용한 텍스트 검색 및 정보 추출 (미완)
 
 ##### Part 2: Python을 이용한 텍스트 파일 처리(task 중심)<br>
-- tutorial_06: 텍스트에서 단어 목록 추출하여 엑셀 파일에 쓰기, 키워드 검색하기
+- tutorial_06: 텍스트에서 단어 목록 추출하여 엑셀 파일에 쓰기, 키워드 검색하기<br>
+[튜토리얼] <https://amancio-choi.github.io/Text_processing_tutorials/Python/python_tutorial_06.html><br>
+[연습 노트] python_tutorial_06.ipynb
 
-- tutorial_07: 텍스트에서 네트워크 정보 추출하여 gephi 포맷으로 내보내기(1)
+- tutorial_07: 텍스트에서 네트워크 정보 추출하여 gephi 포맷으로 내보내기(1)<br>
+[튜토리얼] <https://amancio-choi.github.io/Text_processing_tutorials/Python/python_tutorial_07.html><br>
+[연습 노트] python_tutorial_07.ipynb
 
 - tutorial_08: 텍스트에서 네트워크 정보 추출하여 gephi 포맷으로 내보내기(2)
 
