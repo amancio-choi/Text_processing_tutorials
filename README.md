@@ -5,7 +5,7 @@
 
 #### 1. Python 파트의 시리즈 내용
 ##### Part 1: Python을 이용한 텍스트 파일 처리 기초<br>
-- python_tutorial_00: Python 환경 및 기초(미완)<br>
+- python_tutorial_00: Python 환경 및 기초(작성 중)<br>
 [튜토리얼] <https://amancio-choi.github.io/Text_processing_tutorials/Python/python_tutorial_00.html><br>
 
 - python_tutorial_01: Python으로 텍스트 파일 읽고 쓰기<br>
@@ -24,7 +24,7 @@
 [튜토리얼] <https://amancio-choi.github.io/Text_processing_tutorials/Python/python_tutorial_04.html><br>
 [연습 노트] python_tutorial_04.ipynb
 
-- tutorial_05: AntConc 프로그램을 이용한 텍스트 검색 및 정보 추출 (미완)
+- tutorial_05: AntConc 프로그램을 이용한 텍스트 검색 및 정보 추출 (Part 2 이후 예정)
 
 ##### Part 2: Python을 이용한 텍스트 파일 처리(task 중심)<br>
 - tutorial_06: 텍스트에서 단어 목록 추출하여 엑셀 파일에 쓰기, 키워드 검색하기<br>
