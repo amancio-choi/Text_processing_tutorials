@@ -43,7 +43,6 @@
 
 
 #### 2. R 파트의 시리즈 내용은 Python 파트와 유사하게 구성됩니다.
-##### Part 1: R을 이용한 텍스트 파일 처리 기초
 ##### Part 1: R을 이용한 텍스트 파일 처리 기초<br>
 - tutorial_01: R 환경 및 기초<br>
 [튜토리얼] <https://amancio-choi.github.io/Text_processing_tutorials/R/tutorial_01.html><br>
