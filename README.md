@@ -8,7 +8,7 @@
 - python_tutorial_00: Python 환경 및 기초(미완)<br>
 [튜토리얼] <https://amancio-choi.github.io/Text_processing_tutorials/Python/python_tutorial_00.html><br>
 
-- python_tutorial_01: Python 텍스트 파일 읽고 쓰기<br>
+- python_tutorial_01: Python으로 텍스트 파일 읽고 쓰기<br>
 [튜토리얼] <https://amancio-choi.github.io/Text_processing_tutorials/Python/python_tutorial_01.html><br>
 [연습 노트] python_tutorial_01.ipynb
 
@@ -31,17 +31,24 @@
 [튜토리얼] <https://amancio-choi.github.io/Text_processing_tutorials/Python/python_tutorial_06.html><br>
 [연습 노트] python_tutorial_06.ipynb
 
-- tutorial_07: 텍스트에서 네트워크 정보 추출하여 gephi 포맷으로 내보내기(1)<br>
+- tutorial_07: 텍스트에서 네트워크 정보 추출하여 gephi 포맷으로 내보내기(1) (작성 중)<br>
 [튜토리얼] <https://amancio-choi.github.io/Text_processing_tutorials/Python/python_tutorial_07.html><br>
 [연습 노트] python_tutorial_07.ipynb
 
-- tutorial_08: 텍스트에서 네트워크 정보 추출하여 gephi 포맷으로 내보내기(2)
+- tutorial_08: 텍스트에서 네트워크 정보 추출하여 gephi 포맷으로 내보내기(2)<br>
 
-- tutorial_09: 사전 기반 텍스트 감정(sentiment/emotion) 분석하기
+- tutorial_09: 사전 기반 텍스트 감정(sentiment/emotion) 분석하기 (1월 31일까지 예정)<br>
 
-- tutorial_10: 텍스트 품사 태깅하기
+- tutorial_10: 텍스트 품사 태깅하기<br>
 
 
 #### 2. R 파트의 시리즈 내용은 Python 파트와 유사하게 구성됩니다.
 ##### Part 1: R을 이용한 텍스트 파일 처리 기초
+##### Part 1: R을 이용한 텍스트 파일 처리 기초<br>
+- tutorial_01: R 환경 및 기초<br>
+[튜토리얼] <https://amancio-choi.github.io/Text_processing_tutorials/R/tutorial_01.html><br>
+
+- tutorial_02: R로 텍스트 파일 읽고 쓰기<br>
+[튜토리얼] <https://amancio-choi.github.io/Text_processing_tutorials/R/tutorial_02.html><br>
+
 ##### Part 2: R을 이용한 텍스트 파일 처리(task 중심)
