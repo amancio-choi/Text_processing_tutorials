@@ -1,10 +1,12 @@
 ## Text processing tutorial
 
-#### [주의!] ![python 패키지를 고를 때는 많이 알려진 것들 위주로 설치! 최근 들어 트로이목마 패키지(개인정보 유출)가 많이 등장함.](http://placehold.it/size/background-hex/foreground-hex?text=a123)
-#### [주의!] ![R 패키지는 위의 문제가 없음. install.packages()로 R의 정식 저장소(CRAN repository)에서만 다운로드 받아 설치하면 문제없음.](http://placehold.it/size/background-hex/foreground-hex?text=a123)
+- [주의!] ![python 패키지를 고를 때는 많이 알려진 것들 위주로 설치! 최근 들어 트로이목마 패키지(개인정보 유출)가 많이 등장함.](http://placehold.it/size/background-hex/foreground-hex?text=a123)
+- [주의!] ![R 패키지는 위의 문제가 없음. install.packages()로 R의 정식 저장소(CRAN repository)에서만 다운로드 받아 설치하면 문제없음.](http://placehold.it/size/background-hex/foreground-hex?text=a123)
+
 
 ### python과 R을 이용한 텍스트 처리의 기초 시리즈입니다. 주로 사용할 텍스트는 문학 작품(Gutenberg project)입니다.
-### 튜토리얼과 연습용 코드 노트북을 함께 제공합니다.
+튜토리얼과 연습용 코드 노트북을 함께 제공합니다.
+<br>
 
 #### 1. Python 파트의 시리즈 내용
 ##### Part 1: Python을 이용한 텍스트 파일 처리 기초<br>
