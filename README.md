@@ -37,7 +37,7 @@
 [튜토리얼] <https://amancio-choi.github.io/Text_processing_tutorials/Python/python_tutorial_06.html><br>
 [연습 노트] Text_processing_tutorials/Python/python_tutorial_06.ipynb
 
-- python_tutorial_07: 텍스트에서 네트워크 정보 추출하여 gephi 포맷으로 내보내기(1) (작성 중)<br>
+- python_tutorial_07: 텍스트에서 네트워크 정보 추출하여 gephi 포맷으로 내보내기(1)<br>
 [튜토리얼] <https://amancio-choi.github.io/Text_processing_tutorials/Python/python_tutorial_07.html><br>
 [연습 노트] Text_processing_tutorials/Python/python_tutorial_07.ipynb
 
