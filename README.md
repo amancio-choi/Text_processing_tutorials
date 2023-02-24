@@ -43,7 +43,7 @@
 
 - python_tutorial_08: 텍스트에서 네트워크 정보 추출하여 gephi 포맷으로 내보내기(2)<br>
 
-- python_tutorial_09: 사전 기반 텍스트 감정(sentiment/emotion) 분석하기 (1월 31일까지 예정)<br>
+- python_tutorial_09: 사전 기반 텍스트 감정(sentiment/emotion) 분석하기<br>
 
 - python_tutorial_10: 텍스트 품사 태깅하기<br>
 
