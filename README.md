@@ -58,6 +58,6 @@
 [튜토리얼] <https://amancio-choi.github.io/Text_processing_tutorials/R/tutorial_02.html><br>
 
 - R_tutorial_03: 웹 페이지 스크래핑(scraping) 기초<br>
-[튜토리얼] <https://amancio-choi.github.io/Text_processing_tutorials/R/tutorial_03.html><br>
+[튜토리얼] <https://amancio-choi.github.io/Text_processing_tutorials/R/R_tutorial_03.html><br>
 
 ##### Part 2: R을 이용한 텍스트 파일 처리(task 중심)
