@@ -61,3 +61,4 @@
 [튜토리얼] <https://amancio-choi.github.io/Text_processing_tutorials/R/R_tutorial_03.html><br>
 
 ##### Part 2: R을 이용한 텍스트 파일 처리(task 중심)
+- 문수현 선생님 <https://amancio-choi.github.io/Text_processing_tutorials/R/R_20230314_문수현선생님.html><br>
